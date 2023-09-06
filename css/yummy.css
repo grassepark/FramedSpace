@@ -125,7 +125,7 @@ font-style: normal;
 
 .bg {
     /* background-image: url("/images/bliss.jpeg"); */
-    background-image: url("/images/windows-xp.gif");
+    background-image: url("FramedSpace/images/windows-xp.gif");
     height: 70vh;
     width: 100% !important;
     background-position: center;
